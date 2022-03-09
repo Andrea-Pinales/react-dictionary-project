@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        Your <em>free</em>
+        Your <em>reliable</em>
         <br />
         dictionary
       </h1>
