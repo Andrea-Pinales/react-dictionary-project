@@ -1,0 +1,25 @@
+.Dictionary .search {
+  border: 1px solid;
+  background: none;
+  color: #fff;
+  padding: 7px 14px;
+  width: 500px;
+  font-size: 14px;
+  margin: 20px;
+}
+
+.Dictionary ::placeholder {
+  color: #fff;
+  font-size: 14px;
+  opacity: 50%;
+}
+
+.Dictionary .submit {
+  color: #004c6a;
+  background-color: #81dcfe;
+  border: 1px solid #81dcfe;
+  width: 200px;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 7px;
+}

@@ -1,4 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap");
+
 .App {
   margin: 0 auto;
   text-align: center;
+  background-color: #004c6a;
+  padding: 100px;
+  color: #fff;
+  font-family: "DM Mono", monospace;
+}
+
+.App h1 {
+  letter-spacing: -2px;
+  font-size: 50px;
+  line-height: 50px;
+}
+
+.App h2 {
+  font-size: 18px;
+  font-weight: 100;
+  margin-top: 20px;
+}
+
+.App em {
+  color: #f0cd4e;
+}
+
+.App .container {
+  height: 100%;
 }
