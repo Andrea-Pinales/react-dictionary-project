@@ -2,7 +2,6 @@
 
 .App {
   margin: 0 auto;
-  text-align: center;
   background-color: #004c6a;
   padding: 100px;
   color: #fff;
@@ -10,21 +9,27 @@
 }
 
 .App h1 {
+  text-align: center;
   letter-spacing: -2px;
   font-size: 50px;
   line-height: 50px;
 }
 
 .App h2 {
+  text-align: center;
   font-size: 18px;
   font-weight: 100;
   margin-top: 20px;
 }
 
-.App em {
-  color: #f0cd4e;
+.App h4 {
+  color: #81dcfe;
 }
 
-.App .container {
-  height: 100%;
+.App p {
+  color: #e7ffff;
+}
+
+.App em {
+  color: #f0cd4e;
 }
