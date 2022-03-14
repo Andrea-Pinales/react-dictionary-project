@@ -22,5 +22,3 @@ export default function Meaning(props) {
     </div>
   );
 }
-
-// meaning.definitions[0].definition;
