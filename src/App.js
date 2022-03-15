@@ -17,7 +17,15 @@ function App() {
           <Dictionary />
         </main>
         <footer className="text-center">
-          <small>Coded by Andrea Pinales</small>
+          <small>
+            <a
+              href="https://github.com/Andrea-Pinales/react-dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Coded by Andrea Pinales
+            </a>
+          </small>
         </footer>
       </div>
     </div>
