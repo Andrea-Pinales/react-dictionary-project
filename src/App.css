@@ -2,8 +2,7 @@
 
 .App {
   margin: 0 auto;
-  background-color: #004c6a;
-  padding: 100px;
+  padding: 150px;
   color: #fff;
   font-family: "DM Mono", monospace;
 }
@@ -20,6 +19,7 @@
   font-size: 18px;
   font-weight: 100;
   margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 .App h4 {
@@ -32,4 +32,8 @@
 
 .App em {
   color: #f0cd4e;
+}
+
+.App footer {
+  opacity: 30%;
 }
