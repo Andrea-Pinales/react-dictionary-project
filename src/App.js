@@ -23,8 +23,9 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Coded by Andrea Pinales
-            </a>
+              Open source
+            </a>{" "}
+            by Andrea Pinales
           </small>
         </footer>
       </div>
