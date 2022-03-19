@@ -6,3 +6,9 @@
   padding: 0 0 25px 0;
   text-align: left;
 }
+
+.Phonetics a {
+  color: #f0cd4e;
+  font-size: 23px;
+  padding: 0 10px 0 0;
+}

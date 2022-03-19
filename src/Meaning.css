@@ -3,3 +3,7 @@
   margin: 0 auto;
   text-align: left;
 }
+
+.Meanings em {
+  font-size: 13px;
+}

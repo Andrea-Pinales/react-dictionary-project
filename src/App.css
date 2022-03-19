@@ -37,3 +37,7 @@
 .App a {
   color: #e7ffff;
 }
+
+.App footer {
+  margin-top: 20px;
+}
